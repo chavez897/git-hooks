@@ -1,4 +1,3 @@
 Hello World
 Get current branch
 Prevent commit to main
-asdf
